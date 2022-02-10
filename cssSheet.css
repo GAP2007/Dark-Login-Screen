@@ -1,0 +1,53 @@
+body{
+    background-color: #192428;
+
+}
+h2{
+    color: #0783b6;
+}
+
+
+
+.Input{
+    border: 3px solid #39abe7;
+    border-radius: 100px;
+    background-color: #192428;
+    color:#39abe7;
+    padding: 1%;
+    margin: 0.5%;
+    width: 50%;
+}
+
+
+
+#Loginbtn{
+    width: 15%;
+}
+
+
+
+.Input:focus{
+    transition-duration: 0.5s;
+    width: 60%;	
+}
+#Loginbtn:focus{
+    width: 15%;
+}
+#Loginbtn:hover{
+    transition-duration: 0.5s;
+    width: 20%;
+}
+
+
+
+
+
+#LoginScreen{
+    background-color: #2d383c;
+    border-radius: 10px;
+    border: 4px solid #39abe7; 
+    text-align: center;
+        
+}
+
+
